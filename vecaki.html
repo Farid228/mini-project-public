@@ -11,6 +11,7 @@
             padding: 0;
             background-color: #f4f4f4;
             color: #333;
+            text-align: center; /* Centralizing text */
         }
         header {
             background-color: #2d3e50;
@@ -24,8 +25,8 @@
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
         }
         nav a {
-            float: left;
-            display: block;
+            float: none; /* Change from float to inline */
+            display: inline-block; /* Allows links to be horizontally aligned */
             color: #b0c4de;
             text-align: center;
             padding: 14px 16px;
@@ -45,7 +46,7 @@
             background-color: #1b2838;
             color: #b0c4de;
             text-align: center;
-            padding: 10px 0;
+            padding: 1px 0;
             position: fixed;
             width: 100%;
             bottom: 0;
@@ -56,10 +57,11 @@
             color: #2d3e50;
         }
         .section img {
-            width: 100%;
-            max-height: 400px;
+            display: block;
+            margin: 20px auto;
+            width: 35%;
+            max-height: 420px;
             object-fit: cover;
-            margin-top: 20px;
             border-radius: 8px;
             box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
         }
