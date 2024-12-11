@@ -1,31 +1,17 @@
-# Mini Project: Public Information System
+# Vecāķi
+- My repository for my website about Vecāķi.
+- Information about Vecāķi:
+- ![image](https://prnt.sc/oP1EPxCN4SmF)
 
-## 🌟 Features
+## Why Did I Choose Vecāķi?
+Vecāķi holds a special place due to its unique blend of natural beauty and cultural significance. Its proximity to Riga makes it a vibrant and accessible destination, while its local community initiatives offer opportunities for meaningful collaboration and development. This project is dedicated to showcasing and supporting Vecāķi as a model for sustainable growth and community-driven success.
 
-### 1. Photos and Videos Map
-- Interactive map featuring photos and videos of landmarks, attractions, and key areas of the city.
-- Helps users visually explore the city before visiting.
 
-### 2. Local Map History
-- A timeline of historical maps showcasing the evolution of the city.
-- Offers insights into the city’s development over the years.
-
-### 3. Public Transport
-- Real-time updates on public transportation schedules, routes, and availability.
-- Integration with public transport APIs for accurate and up-to-date information.
-
-### 4. Weather Indicator
-- Displays current weather conditions and forecasts.
-- Helps users plan their day effectively, whether they're commuting or exploring.
-
-### 5. Tourist Route Board
-- Predefined tourist routes and itineraries tailored for sightseeing.
-- Includes recommendations for attractions, dining, and leisure activities.
-
-### 6. Board for Residents
-- A dedicated section for residents to view local announcements, news, and updates.
-- Includes information on services, utilities, and community events.
-
-### 7. Info About Events in the City
-- A centralized calendar featuring upcoming city events such as concerts, festivals, and exhibitions.
-- Categorized by event type for easy navigation.
+## To-Do List
+- [ ] Collect and organize data about Vecāķi's history and cultural significance.
+- [ ] Demonstrate a map with its landmarks and sightseeings.
+- [ ] Integrate a feature to showcase local community initiatives.
+- [ ] - Choose the information I genuinely want to display and feel would show the best of this village, for example:
+ + Public transport routes, prices, etc.
+ + Tourist attractions
+ + How is it like living there?
